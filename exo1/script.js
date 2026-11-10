@@ -1,5 +1,3 @@
-"use strict"; // Mode strict (slide 52)
-
 // Déclaration de variables/constantes de types différents (slides 38 et 52)
 const nom = "John";      // type string (slide 38)
 const prenom = "Doe";    // type string (slide 38)
